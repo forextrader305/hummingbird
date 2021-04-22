@@ -9,8 +9,8 @@ template_version: 8
 bamboo_relay_use_coordinator: false
 bamboo_relay_pre_emptive_soft_cancels: false
 
-openware_api_url: https://app.marcom.co.za/api/v2/peatio
-openware_ranger_url: wss://app.marcom.co.za/api/v2/ranger
+openware_api_url: https://www.marcom.co.za/api/v2/peatio
+openware_ranger_url: wss://marcom.co.za/api/v2/ranger
 openware_currencies: ETH|USD
 
 celo_address:
